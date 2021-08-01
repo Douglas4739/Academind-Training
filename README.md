@@ -4,5 +4,4 @@
 
 ##User Stories
 
--User will be able to add expenses on the specified date
--User is able to view expenses as a bar chart
+-User will be able to Create, Read, Update, and Delete (CRUD) Expense Items
